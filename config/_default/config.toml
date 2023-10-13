@@ -1,7 +1,7 @@
-baseURL = "https://example.com"
+baseURL = "https://daxelka.github.io"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Website of Jane Doe"
+title = "Website of Alina Dubovskaya"
 
 # theme as hugo module
 #theme = "github.com/lxndrblz/anatole"
@@ -19,7 +19,7 @@ enableRobotsTXT = true
 #googleAnalytics = "UA-123-45"
 
 # Syntax highlighting
-pygmentsUseClasses = true   
+pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
