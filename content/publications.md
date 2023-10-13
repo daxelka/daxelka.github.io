@@ -1,5 +1,5 @@
 +++
-title = "Publications short"
+title = "Publications"
 description = "Publications short"
 date = "2023-09-28"
 +++
