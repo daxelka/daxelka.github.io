@@ -27,11 +27,11 @@ date = "2023-09-28"
 
 * I. Garagash, I. O. Bayuk, **A. Dubovskaya**, S. A. Tikhotskiy, I.A. Berezina, S. Glubokovskikh, and D. A. Korneva, "3D geomechanical modeling of oil field on the basis of a model of the mechanical properties for the task of well construction", *Proceedings of SPE Russian Petroleum Technology Conference, Moscow, Russia, 2015.*
 
-* **A. Dubovskaya*, and I. Garagash, "Evaluation of the petroleum potential with geomechanical models" (in Russian), *Proceedings of Conference on Current Problems in Research for the Oil \& Gas industry, Novosibirsk, Russia, 2014.*
+* **A. Dubovskaya**, and I. Garagash, "Evaluation of the petroleum potential with geomechanical models" (in Russian), *Proceedings of Conference on Current Problems in Research for the Oil \& Gas industry, Novosibirsk, Russia, 2014.*
 
 * I. Garagash, **A. Dubovskaya**, D. A. Korneva, and M. Ghasemi, "Coupled geomechanical and fluid flow simulation of the oil field evolution induced by reservoir production", *Proceedings of SPE Russian Oil and Gas Exploration and Production Technical Conference, Moscow, Russia, 2014.*
 
-* I. Garagash and **A. Dubovskaya, "The analysis of the stress-strain state of the Earth's crust of Dagestan inferred from GPS measurements", *Proceedings of the 2nd International FLAC/DEM Symposium, Melbourne, Australia, pp. 641-645, 2011.*
+* I. Garagash and **A. Dubovskaya**, "The analysis of the stress-strain state of the Earth's crust of Dagestan inferred from GPS measurements", *Proceedings of the 2nd International FLAC/DEM Symposium, Melbourne, Australia, pp. 641-645, 2011.*
 
 
 ### Technical Reports
