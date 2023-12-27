@@ -5,7 +5,7 @@ date = "2023-09-28"
 +++
 
 
-My research revolves around nonlinear dynamical systems. I am particulary interesting in dynamics on complex networks. I like studying the biffurcations in the systems and unexpected counterintuitive behavoiur.
+My research revolves around nonlinear dynamical systems. I am particularly interested in dynamics on complex networks. I like studying the bifurcations in the systems and unexpected counterintuitive behavoiur.
 
 ## Opinion Dynamics on Networks
 
@@ -22,10 +22,11 @@ I use a multi-type branching processes framework to model information diffusion 
 ## Paradoxical Behaviour of Swirling Liquid Jets
 
 
-We examines the shape of a steady jet with a swirling component, ejected from a circular orifice at an angle to the horizontal. Assuming the Froude number to be large, we derive a set of asymptotic equations for a slender jet. In the inviscid limit, the solutions of the set predict that, if the swirling velocity of the flow exceeds a certain threshold, the jet bends against gravity and rises until the initial supply of the liquid’s kinetic energy is used up. This effect is due to the fact that the contributions of the swirl and streamwise velocities to the centrifugal force are of opposite signs, with their sum to be balanced by gravity. As a result, swirl- and streamwise-dominated jets bend in opposite directions.
+We examine the shape of a steady jet with a swirling component, ejected from a circular orifice at an angle to the horizontal. Assuming the Froude number to be large, we derive a set of asymptotic equations for a slender jet. In the inviscid limit, the solutions of the set predict that, if the swirling velocity of the flow exceeds a certain threshold, the jet bends against gravity and rises until the initial supply of the liquid’s kinetic energy is used up. This effect is due to the fact that the contributions of the swirl and streamwise velocities to the centrifugal force are of opposite signs, with their sum to be balanced by gravity. As a result, swirl- and streamwise-dominated jets bend in opposite directions.
 
 
 Downward-bending jets also exhibit counter-intuitive behaviour. If the swirling velocity is strong enough, the streamwise velocity on the jet’s axis may decrease with the distance from the orifice, despite the acceleration due to gravity. Eventually, a stagnation point emerges due to this effect, arguably destabilising the jet. Also paradoxically, viscosity-dominated jets can reach higher  and farther than their inviscid counterparts, due to the fact that viscosity suppresses formation of stagnation points.
 
 ## Recycling of Phosphorus in the Plant-Soil System
-We investigate the phosphorus dynamics in a basic plant-soil system. We create a mathematical model of phosphorus recycling in the soil and examine the model asymp- totically and numerically with a particular interest in soil phosphorus profiles. We then explore the effects of fertilisation and harvesting activities on the model, the two major ways in which humans disrupt the natural phosphorus cycle. We show that when a considerable part of vegetation is removed from the system by harvesting or grazing, the model loses its stability and a Hopf periodic solution bifurcates from a quasi-steady state.
+
+We investigate the phosphorus dynamics in a basic plant-soil system. We create a mathematical model of phosphorus recycling in the soil and examine the model asymptotically and numerically with a particular interest in soil phosphorus profiles. We then explore the effects of fertilisation and harvesting activities on the model, the two major ways in which humans disrupt the natural phosphorus cycle. We show that when a considerable part of vegetation is removed from the system by harvesting or grazing, the model loses its stability and a Hopf periodic solution bifurcates from a quasi-steady state.

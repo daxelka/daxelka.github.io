@@ -1,17 +1,23 @@
 +++
 title = "Teaching"
-description = "Hugo Awards, an annual literary award for the best science fiction or fantasy works"
-date = "2022-04-10"
-aliases = ["awards"]
-author = "Hugo Authors"
+description = "Teaching"
+date = "2023-09-28"
 +++
 
-I was forced to teach tutorials at University where i did my PhD for free. I hated that! Now I have traumatic memories of teaching for free for 4 years which make me dislike the idea of teaching still.
+I believe that the primary goal of university-level education is to inspire students to cultivate critical thinking skills, and develop effective problem-solving abilities. In my classes, I concentrate on developing a profound understanding and nurturing intuition. I try to show that the journey of discovery can be more rewarding than mere possession of knowledge.
 
-To find the next position they say I should now also lecture for free.
+In my personal experience, the best teachers I have had were trully passionate about their subjects. In my classes, I aim to convey that same passion to my students and ignite their fascination with mathematics by sharing examples from my own research when appropriate.
 
-- Best Novel 1953 Stories of 40,000 words or more
-- Best Novella 1968 Stories of between 17,500 and 40,000 words
-- Best Novelette 1955 Stories of between 7,500 and 17,500 words
-- Best Short Story 1955 Stories of less than 7,500 words
-- Best Series 2017 Series of works
+## Lecturing
+- Science Mathematics (2023/24 Sem 1), 300+ students
+
+## Tutoring
+- Ordinary Differential Equations (2017/2018 Sem 1, 2018/2019 Sem 1), 2 classes of 30+ students
+- Linear Algebra || (2017/18 Sem 2, 2018/2019 Sem 2), 2 classes of 30+ students
+- Engineering Mathematics || (2016/17 Sem 2), 3 classes of 20+ students
+- Engineering Mathematics | (2016/17 Sem 1), 3 classes of 20+ students
+
+## Supervising
+- Megan Ryan, MSc thesis “Deffuant Opinion Modelling on Social Networks”, co-supervising with Prof. James Gleeson.
+-  Oksana Rusina, BSc thesis “Upscaling of mechanical properties of rocks for geomechanical models”, co-supervising with Dr. Irina O. Bayuk.
+

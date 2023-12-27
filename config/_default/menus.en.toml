@@ -22,8 +22,8 @@
   # identifier = "talks"
   # url = "/talks/"
 
-  # [[main]]
-  # name = "Teaching"
-  # weight = 510
-  # identifier = "teaching"
-  # url = "/teaching/"
+  [[main]]
+  name = "Teaching"
+  weight = 510
+  identifier = "teaching"
+  url = "/teaching/"
