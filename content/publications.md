@@ -8,14 +8,15 @@ date = "2023-09-28"
 
 ### Peer-reviewed
 
-* **A. Dubovskaya**, S. C. Fennell, K. Burke, J. P. Gleeson, and D. O’Kiely, "Analysis of mean-field approximation for Deffuant opinion dynamics on networks", *SIAM Journal on Applied Mathematics 83, no. 2, pp. 436-459, 2023*
-* **A. Dubovskaya** and E. Benilov, "Paradoxical behaviours of swirling jets", *Journal of Fluid Mechanics, 925 (A 12), pp. A12-1-A12-26, 2021*.
+* **A. Dubovskaya**, S. C. Fennell, K. Burke, J. P. Gleeson, and D. O’Kiely, "Analysis of mean-field approximation for Deffuant opinion dynamics on networks", [*SIAM Journal on Applied Mathematics 83, no. 2, pp. 436-459, 2023*](https://epubs.siam.org/doi/pdf/10.1137/22M1499765)
+* **A. Dubovskaya** and E. Benilov, "Paradoxical behaviours of swirling jets", [*Journal of Fluid Mechanics, 925 (A 12), pp. A12-1-A12-26, 2021*](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/6A990519B62E6F480D40C7D9A157E420/S0022112021006649a.pdf)
 * L. Lobkovsky, I. Garagash, and **A. Dubovskaya**, "Correlation between the stress-strain state of the Earth's crust in the Eastern Caspian region and zones of earthquake generation", *Doklady Earth Sciences, vol. 449, no. 2, pp.397-402, 2013.*
 * I. Garagash and **A. Dubovskaya**, "Utilizing a geomechanical model of the Caspian Region for the assessment of oil and gas potential" (in Russian), *Proceedings of MIPT, vol. 5, no. 4, pp. 145-150, 2013.*
 
 ### Preprints
+* **A. Dubovskaya**, C. Pena, and D. J.P. O’Sullivan, "Modeling information spread across networks with communities using a multitype branching process framework", [arXiv preprint, 2024](https://arxiv.org/pdf/2408.04456)
 
-* **A. Dubovskaya**, A. C. Fowler, I. Moyles, H. F. Winstanley, "A Model of Phosphorus Recycling at the Plant Scale", (preprint at SSRN 4175674).
+* **A. Dubovskaya**, A. C. Fowler, I. Moyles, H. F. Winstanley, "A Model of Phosphorus Recycling at the Plant Scale", [Preprint on SSRN, 2022](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4175674)
 
 
 ### Conference Papers (selected)
